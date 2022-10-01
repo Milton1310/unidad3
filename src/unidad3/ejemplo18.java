@@ -5,7 +5,7 @@ public class ejemplo18 {
 	public static void main(String[] args) {
 		
 		int valor1, valor2, resultado;
-		Scanner entrada = new Scanner(System.in); //poner new antes del Scanner 
+		Scanner entrada = new Scanner(System.in); 
 		
 		System.out.println("Suma :");
 		
