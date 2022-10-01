@@ -6,4 +6,5 @@
  *
  */
 module Semestre1 {
+	requires java.desktop;
 }
